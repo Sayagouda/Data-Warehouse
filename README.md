@@ -1,2 +1,2 @@
 # Data-Warehouse
-Build Data Warehouse Project through Medelian Architecture
+Implement a Data Warehouse Project using Medallion Architecture (Bronze, Silver, Gold layers).
